@@ -1,4 +1,7 @@
 Creative, skilled and accomplished Content Writer with diverse knowledge of writing contents for various websites. Currently Interning with FIED IIM Kashipur as Technical Content Writer Intern.
+
+For the below contributions, I collaborated with Amish Raj, so for removing confusion as to who contributed, I have added a file named AmishBonafide, which clearly states that it was a collaborated effort.
+
 Professional strengths:
 
 Possess two years of progressive experience as a web and content writer
