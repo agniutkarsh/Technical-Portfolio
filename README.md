@@ -1,5 +1,7 @@
 Creative, skilled and accomplished Content Writer with diverse knowledge of writing contents for various websites. Currently Interning with FIED IIM Kashipur as Technical Content Writer Intern.
 
+•	How should Online Ed-Tech Startups make use of the pandemic to enhance their market value? - https://bit.ly/3ecnsEk
+
 <strong>For the below contributions, I collaborated with Amish, so for removing confusion as to who contributed, I have added a file named AmishBonafide, which clearly states that it was a collaborated effort.(where I am aliased as Raj)</strong>
 
 Professional strengths:
