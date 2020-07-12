@@ -22,7 +22,7 @@ Professional strengths:
 - In-depth knowledge of writing resumes and cover letters
 - Target oriented and ability to perform tasks within limited period of time
 
-<strong>For the below contributions, I collaborated with Amish, so for removing confusion as to who contributed, I have added a file named AmishBonafide, which clearly states that it was a collaborated effort.(where I am aliased as Raj)</strong>
+<strong>For the below contributions, I collaborated with Amish, so for removing confusion as to who contributed, I have added a file named [AmishBonafide](https://github.com/Zenix27/Technical-Portfolio/blob/master/AmishBonafide.pdf), which clearly states that it was a collaborated effort.(where I am aliased as Raj)</strong>
 
 •	Snapseed For Mac- https://macmetric.com/snapseed-for-mac/
 
