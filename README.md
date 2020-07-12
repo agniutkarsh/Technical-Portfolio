@@ -1,20 +1,26 @@
+<h2> Hey Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+[![Twitter Badge](https://img.shields.io/badge/-@agniutkarsh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agniutkarsh)](https://twitter.com/agniutkarsh) [![Linkedin Badge](https://img.shields.io/badge/-agniutkarsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agniutkarsh/)](https://www.linkedin.com/in/agniutkarsh/) [![Medium Badge](https://img.shields.io/badge/-@agniutkarsh-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@agniutkarsh/)](https://medium.com/agniutkarsh)
+[![Gmail Badge](https://img.shields.io/badge/-agni.utk27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agni.utk27@gmail.com)](mailto:agni.utk27@gmail.com)
+
+This is my Technical Writing Portfolio 😃.I am TechGeek, Writer and I like to code things.
 Creative, skilled and accomplished Content Writer with diverse knowledge of writing contents for various websites. Currently Interning with FIED IIM Kashipur as Technical Content Writer Intern.
 
 •	How should Online Ed-Tech Startups make use of the pandemic to enhance their market value? - https://bit.ly/3ecnsEk
 
 Professional strengths:
 
-Possess two years of progressive experience as a web and content writer
-Ability to generate content in a clear and precise manner
-Exceptional written and verbal communication skills
-Extensive knowledge of Google key word research tools
-Ability to write content according to international & domestic clients requirements
-Possess excellent organizational and management skills
-Excellent knowledge of grammar and use of punctuation marks
-In-depth knowledge of on-line research with excellent analytical skills
-Ability to write in a variety of styles and formats for multiple audiences
-In-depth knowledge of writing resumes and cover letters
-Target oriented and ability to perform tasks within limited period of time
+- Possess two years of progressive experience as a web and content writer
+- Ability to generate content in a clear and precise manner
+- Exceptional written and verbal communication skills
+- Extensive knowledge of Google key word research tools
+- Ability to write content according to international & domestic clients requirements
+- Possess excellent organizational and management skills
+- Excellent knowledge of grammar and use of punctuation marks
+- In-depth knowledge of on-line research with excellent analytical skills
+- Ability to write in a variety of styles and formats for multiple audiences
+- In-depth knowledge of writing resumes and cover letters
+- Target oriented and ability to perform tasks within limited period of time
 
 <strong>For the below contributions, I collaborated with Amish, so for removing confusion as to who contributed, I have added a file named AmishBonafide, which clearly states that it was a collaborated effort.(where I am aliased as Raj)</strong>
 
@@ -82,6 +88,6 @@ Target oriented and ability to perform tasks within limited period of time
 
 Technical Skills:
 
-Familiar with tools like Microsoft Office , Access, Excel, Outlook, PowerPoint and Word.
-Interested in Learning Markdown to better help open Source Communities in Designing Documentation.
+Familiar with tools like Markdown, Sphinx, Microsoft Office , Access, Excel, Outlook, PowerPoint and Word.
+Interested in helping Open Source Communities in Designing Documentation.
 Extensive knowledge of Word help, Dreamweaver and other technical aspects can be seen on my website - agniutkarsh.com
