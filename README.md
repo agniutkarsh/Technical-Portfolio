@@ -2,8 +2,6 @@ Creative, skilled and accomplished Content Writer with diverse knowledge of writ
 
 •	How should Online Ed-Tech Startups make use of the pandemic to enhance their market value? - https://bit.ly/3ecnsEk
 
-<strong>For the below contributions, I collaborated with Amish, so for removing confusion as to who contributed, I have added a file named AmishBonafide, which clearly states that it was a collaborated effort.(where I am aliased as Raj)</strong>
-
 Professional strengths:
 
 Possess two years of progressive experience as a web and content writer
@@ -17,6 +15,8 @@ In-depth knowledge of on-line research with excellent analytical skills
 Ability to write in a variety of styles and formats for multiple audiences
 In-depth knowledge of writing resumes and cover letters
 Target oriented and ability to perform tasks within limited period of time
+
+<strong>For the below contributions, I collaborated with Amish, so for removing confusion as to who contributed, I have added a file named AmishBonafide, which clearly states that it was a collaborated effort.(where I am aliased as Raj)</strong>
 
 •	Snapseed For Mac- https://macmetric.com/snapseed-for-mac/
 
