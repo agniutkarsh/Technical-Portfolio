@@ -2,7 +2,7 @@
 
 <a>[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/918941970875)</a> <a>[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/agniutkarsh)</a> <a>[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/agniutkarsh)</a>  <a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/agniutkarsh)</a> <a>[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@agniutkarsh)</a> <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/agniutkarsh/)</a>
 
-This is my Technical Writing Portfolio 😃.I am TechGeek, Writer and I like to code things.
+This is my Technical Writing Portfolio 😃.I am a TechGeek, Writer and I like to code things.
 Creative, skilled and accomplished Content Writer with diverse knowledge of writing contents for various websites. Currently Interning with FIED IIM Kashipur as Technical Content Writer Intern.
 
 •	How should Online Ed-Tech Startups make use of the pandemic to enhance their market value? - https://bit.ly/3ecnsEk
@@ -20,6 +20,12 @@ Professional strengths:
 - Ability to write in a variety of styles and formats for multiple audiences
 - In-depth knowledge of writing resumes and cover letters
 - Target oriented and ability to perform tasks within limited period of time
+
+Technical Skills:
+
+Familiar with tools like Markdown, Sphinx, Microsoft Office , Access, Excel, Outlook, PowerPoint and Word.
+Interested in helping Open Source Communities in Designing Documentation.
+Extensive knowledge of Word help, Dreamweaver and other technical aspects can be seen on my website - agniutkarsh.com
 
 <strong>For the below contributions, I collaborated with Amish, so for removing confusion as to who contributed, I have added a file named [AmishBonafide](https://github.com/Zenix27/Technical-Portfolio/blob/master/AmishBonafide.pdf), which clearly states that it was a collaborated effort.(where I am aliased as Raj)</strong>
 
@@ -83,10 +89,3 @@ Professional strengths:
 
 •	Miracast on Windows 10, 8, 7 [How to Setup and Use]- https://windowsfish.com/miracast-on-windows-10/
 
-
-
-Technical Skills:
-
-Familiar with tools like Markdown, Sphinx, Microsoft Office , Access, Excel, Outlook, PowerPoint and Word.
-Interested in helping Open Source Communities in Designing Documentation.
-Extensive knowledge of Word help, Dreamweaver and other technical aspects can be seen on my website - agniutkarsh.com
