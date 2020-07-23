@@ -5,7 +5,9 @@
 This is my Technical Writing Portfolio 😃.I am a TechGeek, Writer and I like to code things.
 Creative, skilled and accomplished Content Writer with diverse knowledge of writing contents for various websites. Currently Interning with FIED IIM Kashipur as Technical Content Writer Intern.
 
-•	How should Online Ed-Tech Startups make use of the pandemic to enhance their market value? - https://bit.ly/3ecnsEk
+•	Facebook Open Immersion Program - https://bit.ly/30DcqDf
+•	Online Ed-Tech Startups - https://bit.ly/3ecnsEk
+
 
 Professional strengths:
 
