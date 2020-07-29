@@ -9,7 +9,7 @@ Creative, skilled and accomplished Content Writer with diverse knowledge of writ
 •	Online Ed-Tech Startups - https://bit.ly/3ecnsEk
 
 
-Professional strengths:
+## Professional strengths:
 
 - Possess two years of progressive experience as a web and content writer
 - Ability to generate content in a clear and precise manner
