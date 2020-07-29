@@ -23,7 +23,7 @@ Professional strengths:
 - In-depth knowledge of writing resumes and cover letters
 - Target oriented and ability to perform tasks within limited period of time
 
-Technical Skills:
+## Technical Skills:
 
 Familiar with tools like Markdown, Sphinx, Microsoft Office , Access, Excel, Outlook, PowerPoint and Word.
 Interested in helping Open Source Communities in Designing Documentation.
