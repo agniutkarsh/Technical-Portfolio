@@ -6,7 +6,7 @@ This is my Technical Writing Portfolio 😃.I am a Writer and I also like to cod
 Creative, skilled and accomplished Content Writer with diverse knowledge of writing contents for various websites. Currently Interning with FIED IIM Kashipur as Technical Content Writer Intern.
 
 •	Facebook Open Immersion Program - https://bit.ly/30DcqDf \
-•	Online Ed-Tech Startups - https://bit.ly/3ecnsEk
+•	Online Ed-Tech Startups Article - https://bit.ly/3ecnsEk
 
 
 ## Professional strengths:
