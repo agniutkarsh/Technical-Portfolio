@@ -25,7 +25,7 @@ Creative, skilled and accomplished Content Writer with diverse knowledge of writ
 
 ## Technical Skills:
 
-Familiar with tools like Markdown,, Microsoft Office , Access, Excel, Outlook, PowerPoint and Word.
+Familiar with tools like Markdown, Microsoft Office , Access, Excel, Outlook, PowerPoint and Word.
 Interested in helping Open Source Communities in Designing Documentation.
 Extensive knowledge of Word help, Dreamweaver and other technical aspects can be seen on my website - agniutkarsh.com
 
