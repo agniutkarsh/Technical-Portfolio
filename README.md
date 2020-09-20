@@ -9,6 +9,21 @@ This is my Technical Writing Portfolio 😃. I also like to code things.
 •	Online Ed-Tech Startups Article - https://bit.ly/3ecnsEk
 
 
+## Professional strengths:
+
+- Possess two years of progressive experience as a web and content writer
+- Ability to generate content in a clear and precise manner
+- Exceptional written and verbal communication skills
+- Extensive knowledge of Google key word research tools
+- Ability to write content according to international & domestic clients requirements
+- Possess excellent organizational and management skills
+- Excellent knowledge of grammar and use of punctuation marks
+- In-depth knowledge of on-line research with excellent analytical skills
+- Ability to write in a variety of styles and formats for multiple audiences
+- In-depth knowledge of writing resumes and cover letters
+- Target oriented and ability to perform tasks within limited period of time
+
+
 
 ## Technical Skills:
 
