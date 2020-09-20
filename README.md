@@ -27,7 +27,9 @@ This is my Technical Writing Portfolio 😃. I also like to code things.
 
 ## Technical Skills:
 
-
+Familiar with tools like Markdown, Microsoft Office , Access, Excel, Outlook, PowerPoint and Word.
+Interested in helping Open Source Communities in Designing Documentation.
+Extensive knowledge of Word help, Dreamweaver and other technical aspects can be seen on my website - agniutkarsh.com
 
 <strong>For the below contributions, I collaborated with Amish, so for removing confusion as to who contributed, I have added a file named [AmishBonafide](https://github.com/Zenix27/Technical-Portfolio/blob/master/AmishBonafide.pdf), which clearly states that it was a collaborated effort.(where I am aliased as Raj)</strong>
 
